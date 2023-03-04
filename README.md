@@ -29,6 +29,6 @@ Copy and paste the following command to initialize a cloned repository:
 git clone https://github.com/AtomicFS/transcrypt_bug.git
 ```
 ```
-transcrypt --cipher=aes-256-cbc --password="5elnshPnNS04NYGvI8PBiHLwlSuLtD40FsNf9T02"
+transcrypt --cipher=aes-256-cbc --password="qLdF5e0xkI6WP+zlzDczNOqHALotjfD/EwLsvKol"
 ```
 
